@@ -1,1 +1,6 @@
+Venta_ID,Cliente_ID,Producto,Cantidad,Precio_Unitario,Total_Venta,Fecha
+5001,101,Laptop,2,850,1700,2025-01-10
+5002,102,Mouse,4,25,100,2025-01-11
+5003,103,Teclado,2,45,90,2025-01-12
+5004,104,Monitor,2,180,360,2025-01-12
 
